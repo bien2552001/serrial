@@ -1,5 +1,5 @@
-#ifndef _ROS_std_msgs_Ros_Time_h
-#define _ROS_std_msgs_Ros_Time_h
+#ifndef _ROS_std_msgs_Time_h
+#define _ROS_std_msgs_Time_h
 
 #include <stdint.h>
 #include <string.h>
